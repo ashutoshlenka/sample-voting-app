@@ -4,7 +4,7 @@ kind: Service
 metadata:
   name: redis-app-service
   labels:
-    author: intelliqit
+    author: ashu
 spec:
   ports:
     - targetPort: 6379
