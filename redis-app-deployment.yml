@@ -5,7 +5,7 @@ metadata:
   name: redis-app-deployment
   labels:
     name: redis-app
-    author: intelliqit
+    author: ashu
 spec:
   replicas: 1
   selector:
