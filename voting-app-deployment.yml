@@ -5,7 +5,7 @@ metadata:
   name: voting-app-deployment
   labels:
     name: voting-app
-    author: intelliqit
+    author: ashu
 spec:
   replicas: 2
   selector:
