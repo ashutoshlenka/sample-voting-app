@@ -5,7 +5,7 @@ metadata:
   name: worker-app-deployment
   labels:
     name: worker-app
-    author: intelliqit
+    author: ashu
 spec:
   replicas: 1
   selector:
