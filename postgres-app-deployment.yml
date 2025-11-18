@@ -5,7 +5,7 @@ metadata:
   name: postgres-app-deployment
   labels:
     name: postgres-app
-    author: intelliqit
+    author: ashu
 spec:
   replicas: 1
   selector:
